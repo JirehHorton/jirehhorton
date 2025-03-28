@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jireh (prononunced Jai-ree 😄) and I'm looking to break into the industry of Data/Business Analytics!👍
+My name is Jireh (prononunced Jai-ree 😄) and I'm excited to break into the industry of Data/Business Analytics!👍
 
 - 🔭 I’m working on projects to add to my work portfolio.
 - 🐍 I’m currently learning Python and Tableau 📊.
