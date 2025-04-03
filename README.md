@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hello there 👋
 
-My name is Jireh (prononunced Jai-ree 😄) and I'm excited to break into the industry of Data/Business Analytics!👍
+My name is Jireh (prononunced Jai-ree 😄) and I'm excited to break into the industry of Data/Business Analytics! This is my primary page where I post most of my work portfolio projects!👍
 
-- 🔭 I’m working on projects to add to my work portfolio.
+- 🔭 I’m currently working on different kinds of projects to add to my work portfolio.
 - 🐍 I’m currently learning Python and Tableau 📊.
-- 👯 I’m looking to collaborate on Data/Business Analysis projects, visualizations or code.
+- 🥇 I’m looking to collaborate on Data/Business Analysis projects, visualizations or code.
 <!--
 **JirehHorton/jirehhorton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
